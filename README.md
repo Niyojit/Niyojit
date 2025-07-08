@@ -2,7 +2,7 @@
 
 - 🌱 I’m interested in Data Analytics and coding.
 
-- 👨‍💻 I’m currently learning Backend Development, and Machine Learning.
+- 👨‍💻 I’m currently learning AI, and Machine Learning.
 
 - 💞️ I’m looking to collaborate on Different Projects.
 
