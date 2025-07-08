@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niyojit </h1>
 
-- 🌱 I’m interested in Full Stack Web Development and coding.
+- 🌱 I’m interested in Data Analytics and coding.
 
 - 👨‍💻 I’m currently learning Backend Development, and Machine Learning.
 
